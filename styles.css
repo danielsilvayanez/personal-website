@@ -1,0 +1,14 @@
+/* Font definieren */
+/*html {
+  background-color: plum; //
+}*/
+
+body {
+  font-family: sans-serif;
+  font-size: 112.5%; /*dadurch ist die Schriftgröße auf Standardbrowsern immer etwas größer */
+  color: #333333; /*dunkles grau, angenehmer für die Augen */
+  background-color: #fefefe; /* etwas leicht grauererer Hintergrund, besser für die Augen */
+  max-width: 1080px; /*Anzeige/Inhalt der Website wird 1080px breit, dann Umbruch */
+  margin: 0 auto; /* oben und unten kein Rand und li und re soll auto verteiler werden */
+  /* body bekommt automatisch die farbe des html elements!!!!! AUSNAHME!!! */
+}
